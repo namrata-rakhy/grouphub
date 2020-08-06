@@ -1,3 +1,3 @@
 from ubuntu
-hello
-hi
+RUN yum update
+USER robot
